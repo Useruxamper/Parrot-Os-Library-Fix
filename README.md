@@ -6,11 +6,11 @@ A lightweight wrapper script for `apt` and `apt-cache` that allows you to manage
 
 On distributions like Parrot OS or other derivatives, certain packages might not be available or may have missing installation candidates in the default system sources:
 
-![Before: Package not available error](image_65de49.jpg)
+![Before: Package not available error](Untitled.jpg)
 
 Using `apt-debian`, you can seamlessly pull and install packages directly from your isolated Debian repository list:
 
-![After: Successful installation using apt-debian](image_65de45.jpg)
+![After: Successful installation using apt-debian](Untitled1.jpg)
 
 ## Installation
 
